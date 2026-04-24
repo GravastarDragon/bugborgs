@@ -8,19 +8,19 @@
     },
     "states": [
         {
-            "name": "service",
+            "name": "secbug",
             "directions": 4
         },
         {
-            "name": "service_e_r",
+            "name": "secbug_e_r",
             "directions": 4
         },
         {
-            "name": "service_e",
+            "name": "secbug_e",
             "directions": 4
         },
         {
-            "name": "service_l",
+            "name": "secbug_l",
             "directions": 4
         }
     ]
