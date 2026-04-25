@@ -392,3 +392,10 @@
   dummyPrototype: BorgChassisServiceK4tAlt2
   name: K4T-SRV-alt-2
   spritePath: _HL/Mobs/Silicon/Borg/Service/k4t_alt2_service.rsi
+
+- type: borgSubtype
+  parent: BorgSecuritySubtypeBase
+  id: BorgSecuritySubtypeSecbug
+  dummyPrototype: BorgChassisSecuritySecbug
+  name: Secbug
+  spritePath: _HL/Mobs/Silicon/Borg/Security/secbug.rsi
