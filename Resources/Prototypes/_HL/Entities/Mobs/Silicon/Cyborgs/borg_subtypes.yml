@@ -396,6 +396,6 @@
 - type: borgSubtype
   parent: BorgSecuritySubtypeBase
   id: BorgSecuritySubtypeSecbug
-  dummyPrototype: BorgChassisSecuritySecbug
+  dummyPrototype: BorgChassisSecSecbug
   name: Secbug
   spritePath: _HL/Mobs/Silicon/Borg/Security/secbug.rsi
