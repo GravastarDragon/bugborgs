@@ -412,11 +412,11 @@
   id: BorgEngineerSubtypeEngineerbug
   dummyPrototype: BorgChassisEngineerEngineerbug
   name: Engineerbug
-  spritePath: _HL/Mobs/Silicon/Borg/Service/engineerbug.rsi
+  spritePath: _HL/Mobs/Silicon/Borg/Engineering/engineerbug.rsi
 
 - type: borgSubtype
   parent: BorgMiningSubtypeBase
   id: BorgMiningSubtypeMinerbug
   dummyPrototype: BorgChassisMiningMinerbug
   name: Minerbug
-  spritePath: _HL/Mobs.Silicon/Borg/Mining/minerbug.rsi
+  spritePath: _HL/Mobs/Silicon/Borg/Mining/minerbug.rsi
