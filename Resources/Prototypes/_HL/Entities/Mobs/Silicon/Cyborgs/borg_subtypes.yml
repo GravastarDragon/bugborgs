@@ -399,3 +399,24 @@
   dummyPrototype: BorgChassisSecSecbug
   name: Secbug
   spritePath: _HL/Mobs/Silicon/Borg/Security/secbug.rsi
+
+- type: borgSubtype
+  parent: BorgServiceSubtypeBase
+  id: BorgServiceSubtypeDjbug
+  dummyPrototype: BorgChassisServiceDjbug
+  name: Djbug
+  spritePath: _HL/Mobs/Silicon/Borg/Service/bugdj.rsi
+
+- type: borgSubtype
+  parent: BorgEngineerSubtypeBase
+  id: BorgEngineerSubtypeEngineerbug
+  dummyPrototype: BorgChassisEngineerEngineerbug
+  name: Engineerbug
+  spritePath: _HL/Mobs/Silicon/Borg/Service/engineerbug.rsi
+
+- type: borgSubtype
+  parent: BorgMiningSubtypeBase
+  id: BorgMiningSubtypeMinerbug
+  dummyPrototype: BorgChassisMiningMinerbug
+  name: Minerbug
+  spritePath: _HL/Mobs.Silicon/Borg/Mining/minerbug.rsi
